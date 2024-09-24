@@ -42,7 +42,7 @@ export default function Home({ people }) {
               className="
             text-center"
             >
-              you don't have any people
+              you do not have any people
             </h3>
           )}
         </ul>

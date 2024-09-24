@@ -56,7 +56,7 @@ const Blog = ({ blogs }) => {
               );
             })
           ) : (
-            <h3>we don't have any articles</h3>
+            <h3>we do not have any articles</h3>
           )}
         </article>
       </div>
