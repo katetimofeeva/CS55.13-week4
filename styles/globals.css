@@ -40,3 +40,14 @@ a {
     color-scheme: dark;
   }
 }
+
+.bg-btn:hover {
+  background: linear-gradient(167deg, yellow 24.08%, #f39c12 117.07%);
+}
+
+.bg-btn {
+  background: linear-gradient(167deg, #f39c12 24.08%, yellow 117.07%);
+  border-radius: 10px !important;
+  color: black;
+  transition: background 1s ease;
+}
